@@ -41,7 +41,7 @@ Eu como atleta, gostaria de me inscrever nas competições desejadas, para poder
 
 ## Diagrama de Classes
 
-![Diagrama de Classes](Imagens/diagramaClasses.jpg)
+![Diagrama de Classes](Imagens/diagrama_Classes.jpg)
 
 ## Diagrama de Componentes
 
