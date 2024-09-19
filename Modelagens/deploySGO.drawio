@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.14">
+  <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
+    <mxGraphModel dx="1393" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="15" y="30" width="820" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IVTHk_2xnQ2rHj9UHlEW-2" target="IVTHk_2xnQ2rHj9UHlEW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-23" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IVTHk_2xnQ2rHj9UHlEW-18">
+          <mxGeometry x="0.025" relative="1" as="geometry">
+            <mxPoint x="-2" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-2" value="Cliente:" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-3" value="Browser" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="IVTHk_2xnQ2rHj9UHlEW-2">
+          <mxGeometry width="100" height="80" relative="1" as="geometry">
+            <mxPoint x="10" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IVTHk_2xnQ2rHj9UHlEW-5" target="IVTHk_2xnQ2rHj9UHlEW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-25" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IVTHk_2xnQ2rHj9UHlEW-20">
+          <mxGeometry x="0.0222" y="-2" relative="1" as="geometry">
+            <mxPoint x="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-5" value="Servidor Web" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-6" value="Apache HTTP Server" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="IVTHk_2xnQ2rHj9UHlEW-5">
+          <mxGeometry width="100" height="80" relative="1" as="geometry">
+            <mxPoint x="10" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IVTHk_2xnQ2rHj9UHlEW-7" target="IVTHk_2xnQ2rHj9UHlEW-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="370" />
+              <mxPoint x="570" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-26" value="API REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IVTHk_2xnQ2rHj9UHlEW-21">
+          <mxGeometry x="0.05" y="2" relative="1" as="geometry">
+            <mxPoint x="-4" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-7" value="Servidor de Aplicação" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-8" value="Node.JS" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="IVTHk_2xnQ2rHj9UHlEW-7">
+          <mxGeometry width="100" height="80" relative="1" as="geometry">
+            <mxPoint x="10" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-9" value="Banco de Dados" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="70" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-10" value="&lt;strong&gt;PostgreSQL&lt;/strong&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="IVTHk_2xnQ2rHj9UHlEW-9">
+          <mxGeometry width="100" height="80" relative="1" as="geometry">
+            <mxPoint x="10" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IVTHk_2xnQ2rHj9UHlEW-12" target="IVTHk_2xnQ2rHj9UHlEW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-27" value="JDBC/ODBC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IVTHk_2xnQ2rHj9UHlEW-22">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint x="36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-12" value="Autenticação" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IVTHk_2xnQ2rHj9UHlEW-13" value="Auth0" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="IVTHk_2xnQ2rHj9UHlEW-12">
+          <mxGeometry width="100" height="80" relative="1" as="geometry">
+            <mxPoint x="10" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
