@@ -54,5 +54,5 @@ Eu como atleta, gostaria de me inscrever nas competições desejadas, para poder
 
 ## Diagrama de Implantação
 
-![Diagrama de Implantacao](Imagens/diagrama_pacotes.pngg)
+![Diagrama de Implantacao](Imagens/diagrama_pacotes.png)
 
