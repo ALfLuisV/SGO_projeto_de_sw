@@ -49,7 +49,8 @@ Eu como atleta, gostaria de me inscrever nas competições desejadas, para poder
 
 ## Diagrama de Pacotes
 
-![Diagrama de Pacotes](Imagens/Diagrama_de_pacotes.png)
+![Diagrama de Pacotes](Imagens/diagrama_pacotes.png
+)
 
 
 
