@@ -45,7 +45,7 @@ Eu como atleta, gostaria de me inscrever nas competições desejadas, para poder
 
 ## Diagrama de Componentes
 
-![Diagrama de Componentes](Imagens/diagrama_de_componentes.png)
+![Diagrama de Componentes](Imagens/diagrama-de_componentes.png)
 
 ## Diagrama de Pacotes
 
